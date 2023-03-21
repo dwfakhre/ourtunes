@@ -1,5 +1,12 @@
+*, *::after, *::before{
+  box-sizing: 0;
+}
 .App {
   text-align: center;
+  background-color: white;
+  
+ 
+
 }
 
 .App-logo {
